@@ -1,0 +1,17 @@
+{
+  "name": "nutrifit_hub",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.7.1"
+  }
+}
